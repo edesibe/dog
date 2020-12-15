@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"learn/ninja12/dog"
+	"learn/ninja12/dog" // path should be relative path from GOPATH/src
 )
 
 type Dog struct {
